@@ -1,0 +1,40 @@
+p 
+{position: absolute;
+    height: 300px;
+    width: 1325px;
+    left: -15px;
+    margin-top: -8;
+    background: #50243B;
+    border-radius: 0px 0px 65px 65px;}
+
+
+h5
+{position: absolute;
+    width: 239px;
+    height: 238px;
+    left: 560px;
+    top: 20px;
+        
+    background: url(ima.png);
+    border-radius: 10PX;}
+
+
+h1
+{position: absolute;
+    width: 580px;
+    height: 325px;
+    left: 30px;
+    top: 400px;
+        
+    background: url(mac.png);
+    border-radius: 10PX;}
+
+h2
+{position: absolute;
+    width: 580px;
+    height: 325px;
+    left: 700px;
+    top: 400px;
+        
+    background: url(mac2.png);
+    border-radius: 10PX;}

@@ -1,0 +1,269 @@
+u
+{position: absolute;
+    width: 425px;
+    height: 325px;
+    left: 110px;
+    top: 120px;
+    border-radius: 50px;
+    
+    background: url(a.jpg)}
+
+    e
+    {position: absolute;
+        width: 161px;
+        height: 23px;
+        left: 590px;
+        top: -85px;
+        
+        font-family: Comic Sans MS, Comic Sans, cursive;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 22px;
+        font-weight: bolder;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        
+        color: #000000;
+        }
+    
+    i
+    {position: absolute;
+        width: 275px;
+        height: 33px;
+        left: -1px;
+        top: 35px;
+    }
+    
+    p
+    {position: absolute;
+        width: 170px;
+        height: 23px;
+        left: -1px;
+        top: 30px;
+        
+        font-family: Comic Sans MS, Comic Sans, cursive;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 22px;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        font-weight: bolder;
+        color: #000000;}
+    
+    b
+    {position: absolute;
+        width: 275px;
+        height: 33px;
+        left: -1px;
+        top: 35px;}
+    
+    h4
+    {position: absolute;
+        width: 131px;
+        height: 23px;
+        left: -79px;
+        top: 60px;
+        
+        font-family: Comic Sans MS, Comic Sans, cursive;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 22px;
+        font-weight: bolder;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        
+        color: #000000;}
+    
+    h2
+    {position: absolute;
+        width: 275px;
+        height: 33px;
+        left: 79px;
+        top: 10px;}
+    
+    h3
+    {position: absolute;
+        width: 250px;
+        height: 23px;
+        left: 79px;
+        top: 50px;
+        
+        font-family: Comic Sans MS, Comic Sans, cursive;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 22px;
+        font-weight: bolder;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        
+        color: #000000;}
+    
+     h5
+    {position: absolute;
+        width: 275px;
+        height: 33px;
+        left: 79px;
+        top: 75px;}
+    
+    
+            
+    abbr
+    {position: absolute;
+        width: 260px;
+        height: 23px;
+        left: 1px;
+        top: 55px;
+    
+        font-family: Comic Sans MS, Comic Sans, cursive;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 22px;
+        font-weight: bolder;
+        display: flex;
+        align-items: center;
+        text-align: center;
+                    
+        color: #000000;}
+                
+    bdi
+    {position: absolute;
+        width: 21px;
+        height: 18px;
+        left: 1px;
+        top: 40px;
+                        
+        font-family: HComic Sans MS, Comic Sans, cursive;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 17px;
+        font-weight: bolder;
+        display: flex;
+        align-items: center;
+        text-align: center;
+                        
+        color: #000000;}
+    
+    view
+    {position: absolute;
+        width: 62px;
+        height: 33px;
+        left: -10px;
+        top: 25px;}
+    
+    bdo
+    {position: absolute;
+        width: 26px;
+        height: 18px;
+        left: 85px;
+        top: -25px;
+                                    
+        font-family: HComic Sans MS, Comic Sans, cursive;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 17px;
+        font-weight: bolder;
+        display: flex;
+        align-items: center;
+        text-align: center;
+                                    
+        color: #000000;}
+    
+    pre
+    {position: absolute;
+        width: 62px;
+        height: 33px;
+        left: 0px;
+        top: 10px;}
+    
+    cite
+    {position: absolute;
+        width: 25px;
+        height: 18px;
+        left: -100px;
+        top: -15px;
+                                            
+        font-family:  HComic Sans MS, Comic Sans, cursive;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 17px;
+        font-weight: bolder;
+        display: flex;
+        align-items: center;
+        text-align: center;
+                                        
+        color: #000000;}
+    
+    h
+    {position: absolute;
+        width: 62px;
+        height: 33px;
+        left: 192px;
+        top: 16px;}
+    
+    a    
+    {position: absolute;
+        width: 220px;
+        height: 30px;
+        left: -150px;
+        top: 75;
+    
+            background-color: #1BB889; 
+            border: none;
+            border-radius: 50px;
+            color: #000000;
+            padding: 10px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-family: Comic Sans MS;
+            font-size: 16px;
+            font-weight: bolder;}
+    
+    path
+    {position: absolute;
+        width: 328px;
+        height: 28px;
+        left: -240px;
+        top: 170px;
+        
+        font-family: HComic Sans MS, Comic Sans, cursive;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        
+        color: #000000;}
+    
+    option
+    {position: absolute;
+        width: 328px;
+        height: 28px;
+        left: 260px;
+        top: -13;
+        
+        font-family: HComic Sans MS, Comic Sans, cursive;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        
+        color: #1BB889;}

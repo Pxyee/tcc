@@ -1,0 +1,178 @@
+p 
+{position: absolute;
+    height: 65px;
+    width: 1310px;
+    left: -1px;
+    margin-top: -8;
+    background: #000000;}
+
+ h1 
+{position: absolute;
+    width: 54px;
+    height: 54px;
+    left: 20px;
+    top: -15px;
+        
+    background: url(logo1.jpg);
+    border-radius: 10px;}
+
+h2
+{position: absolute;
+    width: 123px;
+    height: 23px;
+    left: 70px;
+    top: 5px;
+        
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-weight: bolder;
+        
+    color: #FFFFFF;}
+
+b 
+{position: absolute;
+    width: 123px;
+    height: 23px;
+    left: 73px;
+    top: -1px;
+    
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-weight: bolder;
+    
+    color: #F6B906;}
+
+h3
+{position: absolute;
+    width: 100px;
+    height: 20px;
+    left: 900px;
+    top: -32;}
+
+    a
+    {font-family: Arial, sans-serif;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    
+    color: #FFFFFF;}
+
+h4
+{position: absolute;
+    width: 90.03;
+    height: 20px;
+    left: 1050px;
+    top: -20px;
+        
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+        
+    color: #FFFFFF;}
+
+h5
+{position: absolute;
+    width: 1232px;
+    height: 520px;
+    left: -100px;
+    top: 250px;
+
+    background: url(capa.png);}
+
+button 
+{position: absolute;
+    width: 265px;
+    height: 80px;
+    left: 500px;
+    top: 750px;
+    
+    background-color: #1BB889; 
+    border: none;
+    border-radius: 50px;
+    color: #000000;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Comic Sans MS;
+    font-size: 16px;
+    font-weight: bolder;}
+
+text
+{position: absolute;
+    width: 1315px;
+    height: 210px;
+    left: -548px;
+    top: 350px;
+        
+    background: #080808;}
+
+o
+{position: absolute;
+    width: 110px;
+    height: 180px;
+    left: 500px;
+    top: 10px;
+
+    background: url(tela.png);}
+
+k
+{position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 140px;
+    top: 10px;
+        
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+   
+        
+    color: #FFFFFF;}
+
+l 
+{position: absolute;
+    width: 190px;
+    height: 100px;
+    left: 30px;
+    top: 90px;
+        
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+        
+    color: #1BB889;}

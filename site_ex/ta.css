@@ -1,0 +1,49 @@
+p 
+{position: absolute;
+    height: 300px;
+    width: 1325px;
+    left: -15px;
+    margin-top: -8;
+    background: #50243B;
+    border-radius: 0px 0px 65px 65px;}
+
+
+h5
+{position: absolute;
+    width: 239px;
+    height: 238px;
+    left: 560px;
+    top: 20px;
+        
+    background: url(ima.png);
+    border-radius: 10PX;}
+
+a
+{position: absolute;
+    width: 200;
+    height: 15px;
+    left: -5px;
+    top: 500px;
+        
+    background-color: #50243B; 
+    border: none;
+    border-radius: 50px;
+    color: #FFFFFF;
+    padding: 29px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 16px;
+    font-weight: bolder;}
+
+
+text
+{position: absolute;
+    width: 55px;
+    height: 55px;
+    left: -559px;
+    top: 650px;
+        
+    background: url(logo1.jpg);
+    border-radius: 10PX}
