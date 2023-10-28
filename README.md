@@ -1,2 +1,3 @@
-# tcc
- site tcc etec
+# Olá mundo
+ site tcc etec     
+ repositorio criado 
